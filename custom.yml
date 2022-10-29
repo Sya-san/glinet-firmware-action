@@ -6,6 +6,9 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
+  - frps
+  - luci-app-frps	
+  
 
 
 
